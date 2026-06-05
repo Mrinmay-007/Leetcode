@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mrinmay-007/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2833-furthest-point-from-origin](https://github.com/Mrinmay-007/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Sliding Window
 |  |
 | ------- |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Mrinmay-007/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Mrinmay-007/Leetcode/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/Mrinmay-007/Leetcode/tree/master/0196-delete-duplicate-emails) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/Mrinmay-007/Leetcode/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
