@@ -33,13 +33,15 @@ class Solution(object):
         while temp:
             arr.append(temp.val)
             temp = temp.next
+
         arr.sort()
-        temp = head
+
+        node = head
         i = 0
-        while temp:
-            temp.val = arr[i]
+        while node:
+            node.val = arr[i]
             i += 1
-            temp = temp.next
+            node = node.next
         return head
 
         
