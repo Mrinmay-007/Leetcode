@@ -18,8 +18,10 @@ class Solution(object):
         mid = n//2
         i = 0
         node = head
+        
         if mid == 0:
             return None
+
         while node :
             if i == mid-1 :
                 node.next = node.next.next
