@@ -10,6 +10,7 @@ class Solution(object):
         :type l2: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
+     
         node1 = l1
         node2 = l2
         temp  = node1.val + node2.val
@@ -52,6 +53,7 @@ class Solution(object):
         if car:
             cur.next = ListNode(car)
         return res
+
 
 
 
