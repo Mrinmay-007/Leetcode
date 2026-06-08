@@ -54,7 +54,7 @@ class Solution(object):
         return new_head if new_head else head
 
 
-
+# Method 2 =============================
 
 # Definition for singly-linked list.
 # class ListNode(object):
