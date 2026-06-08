@@ -56,3 +56,38 @@ class Solution(object):
 
 
 
+# Definition for singly-linked list.
+# class ListNode(object):
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
+
+class Solution(object):
+    def reverseKGroup(self, head, k):
+
+        dummy = ListNode(0)
+        dummy.next = head
+        group_prev = dummy
+
+        while True:
+
+            kth = group_prev
+            for _ in range(k):
+                kth = kth.next
+                if not kth:
+                    return dummy.next
+
+            group_next = kth.next
+
+            prev = group_next
+            cur = group_prev.next
+
+            for _ in range(k):
+                nxt = cur.next
+                cur.next = prev
+                prev = cur
+                cur = nxt
+
+            temp = group_prev.next
+            group_prev.next = prev
+            group_prev = temp
