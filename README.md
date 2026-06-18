@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Mrinmay-007/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Mrinmay-007/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mrinmay-007/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0424-longest-repeating-character-replacement](https://github.com/Mrinmay-007/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Linked List
 |  |
 | ------- |
@@ -59,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Mrinmay-007/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Mrinmay-007/Leetcode/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Mrinmay-007/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0424-longest-repeating-character-replacement](https://github.com/Mrinmay-007/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [2833-furthest-point-from-origin](https://github.com/Mrinmay-007/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mrinmay-007/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Mrinmay-007/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mrinmay-007/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Database
 |  |
