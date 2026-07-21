@@ -6,11 +6,16 @@ class Solution(object):
         """
         if not strs :
             return ""
-        strs.sort()
-        first = strs[0]
-        last = strs[-1]
 
-        i= 0
-        while i <len(first) and first[i] == last[i]:
-            i+= 1
-        return first[:i]
+        strs.sort()
+        f = strs[0]
+        l = strs[-1]
+
+        i = 0 
+        while i < len(f) and i < len(l):
+            if f[i] != l[i]:
+                break
+            
+            i+=1
+        
+        return f[:i]
