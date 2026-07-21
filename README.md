@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Mrinmay-007/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/Mrinmay-007/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mrinmay-007/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1021-remove-outermost-parentheses](https://github.com/Mrinmay-007/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2833-furthest-point-from-origin](https://github.com/Mrinmay-007/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Sliding Window
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mrinmay-007/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Mrinmay-007/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/Mrinmay-007/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
