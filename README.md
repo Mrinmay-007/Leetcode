@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Mrinmay-007/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Mrinmay-007/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Mrinmay-007/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0198-house-robber](https://github.com/Mrinmay-007/Leetcode/tree/master/0198-house-robber) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mrinmay-007/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mrinmay-007/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mrinmay-007/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mrinmay-007/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Mrinmay-007/Leetcode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Mrinmay-007/Leetcode/tree/master/0198-house-robber) |
 ## Greedy
 |  |
 | ------- |
