@@ -12,7 +12,7 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: int
         """
-        diameter = [0]
+        self.diameter = 0
         def dfs (node):
 
             if node is None :
@@ -21,12 +21,12 @@ class Solution(object):
             left = dfs(node.left)
             right = dfs(node.right)
 
-            diameter[0] = max(diameter[0], left + right)
+            self.diameter = max(self.diameter, left + right)
 
             return max(left,right) +1
             
         dfs(root)
 
-        return diameter[0] 
+        return self.diameter
 
 
