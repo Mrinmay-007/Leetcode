@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Mrinmay-007/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Mrinmay-007/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Mrinmay-007/Leetcode/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/Mrinmay-007/Leetcode/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Mrinmay-007/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Mrinmay-007/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mrinmay-007/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Mrinmay-007/Leetcode/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mrinmay-007/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Mrinmay-007/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
